@@ -35,7 +35,7 @@ main {
 
 .menu {
     line-height: 1;
-    border-bottom: 1px solid rgb(146, 168, 209);
+    border-bottom: 1px solid rgb(0,206,209);
     margin-bottom: 0;
     color: black;
     padding-top: 10px;
@@ -59,7 +59,7 @@ main {
     margin: 0 0 10px 0;
 }
 .menu-link {
-    color: rgb(146, 168, 209);
+    color: rgb(0,206,209);
     ;
     font-size: 18px;
     font-weight: bold;
@@ -81,11 +81,11 @@ main {
     outline: none;
 }
 .menu-link:active {
-    color: rgb(146, 168, 209);
+    color: rgb(0,206,209);
     ;
 }
 .menu-link.active-menu {
-    border: 2px solid rgb(146, 168, 209);
+    border: 2px solid rgb(0,206,209);
 }
 .pull-right {
     float: right;
@@ -97,13 +97,13 @@ main {
     margin-top: 4px;
     padding: 4px;
     border: 0;
-    border-bottom: 1px solid rgb(146, 168, 209);
+    border-bottom: 1px solid rgb(0,206,209);
 }
 .add-new-jar {
     background-color: #fff;
     padding: 10px;
-    border: 2px solid rgb(146, 168, 209);
-    color: rgb(146, 168, 209);
+    border: 2px solid rgb(0,206,209);
+    color: rgb(0,206,209);
 }
 label {
     color: gray;
@@ -118,8 +118,8 @@ td {
     width: 19px;
     text-align: center;
     display: inline-block;
-    color: rgb(146, 168, 209);
-    border: 1px solid rgb(146, 168, 209);
+    color: rgb(0,206,209);
+    border: 1px solid rgb(0,206,209);
 }
 .list-of-jars {
     list-style-type: none;
